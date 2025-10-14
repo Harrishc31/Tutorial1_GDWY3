@@ -1,2 +1,3 @@
-2025/10/02-00:31:02.735 ae0 Creating DB C:/Users/Harrish/Documents/GitHub/Tutorial1_GDWY3/Tutorial2/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2025/10/02-00:31:02.762 ae0 Reusing MANIFEST C:/Users/Harrish/Documents/GitHub/Tutorial1_GDWY3/Tutorial2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/10/10-17:54:50.851 26a0 Reusing MANIFEST C:/Users/Harrish/Documents/GitHub/Tutorial1_GDWY3/Tutorial2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/10/10-17:54:50.863 26a0 Recovering log #3
+2025/10/10-17:54:50.864 26a0 Reusing old log C:/Users/Harrish/Documents/GitHub/Tutorial1_GDWY3/Tutorial2/Saved/webcache_4430\Local Storage\leveldb/000003.log 
